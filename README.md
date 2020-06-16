@@ -1,3 +1,7 @@
+Decsription:
+Ce projet, codé en React Js permet de récupérér des données à partir d'une API. 
+---------------------------------------------------------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
